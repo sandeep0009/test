@@ -1,6 +1,0 @@
-{{#user}}
-Name:Sandeep Kumar Shah
-Skills:HTML,CSS , Javascript,React.js,Python,Django
-Email:500sandeepks@gmail.com
-{{/user}}
-
